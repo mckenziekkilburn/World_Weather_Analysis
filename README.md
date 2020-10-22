@@ -19,6 +19,13 @@
 
 _____________________________________________________________
 
+
+![WeatherPy_travel_map](https://github.com/mckenziekkilburn/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map.PNG)
+
+###### The image is showing us our travel itinerary route. 
+
+_____________________________________________________________
+
 ![WeatherPy_travel_map_markers](https://github.com/mckenziekkilburn/World_Weather_Analysis/blob/master/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
-###### The image above shows us an example of what our map will look like after the user has chosen their four desired locations.
+###### The image above shows us an example of what our map will look like after the user has chosen their four desired locations. This image is showing how the markers are going to be displayed.
